@@ -1,0 +1,265 @@
+Aqui está um **mapa mental escrito** organizado de forma hierárquica, como normalmente se apresenta em estudo ou revisão acadêmica.
+
+---
+
+# 🧠 Mapa Mental — Implementação da Biodança no SUS
+
+## 1️⃣ Tema Central
+
+**Implementação da Biodança no Sistema Único de Saúde (SUS)**
+→ Inserção da Biodança como **Prática Integrativa e Complementar em Saúde (PICS)**
+→ Busca por **novo paradigma de cuidado em saúde**
+→ Complemento à **biomedicina tradicional**
+
+---
+
+# 2️⃣ Contexto do SUS e das PICS
+
+### Reforma Sanitária e novo conceito de saúde
+
+* Ampliação do conceito de saúde
+* Direito universal à saúde
+* Integração de:
+
+  * Cultura
+  * Saberes tradicionais
+  * Integralidade do cuidado
+
+### Política Nacional de Práticas Integrativas e Complementares (PNPIC)
+
+* Criada para ampliar formas de cuidado
+* Inicialmente incluía:
+
+  * Homeopatia
+  * Fitoterapia
+  * Acupuntura
+  * Medicina antroposófica
+  * Termalismo social
+* Expansão:
+
+  * **2017:** +14 práticas (incluindo Biodança)
+  * **2018:** +10 práticas
+* Total: **29 PICS no SUS**
+
+---
+
+# 3️⃣ Biodança
+
+### Origem
+
+* Criada por **Rolando Toro Araneda (Chile)**
+
+### Definição
+
+Sistema de desenvolvimento humano baseado em:
+
+* dança
+* música
+* movimento
+* expressão emocional
+* interação em grupo
+
+### Objetivos
+
+* Integração do indivíduo:
+
+  * consigo mesmo
+  * com os outros
+  * com o universo
+* Promover:
+
+  * saúde emocional
+  * renovação orgânica
+  * equilíbrio homeostático
+  * reeducação afetiva
+  * mudança de estilo de vida
+
+---
+
+# 4️⃣ Metodologia da Pesquisa
+
+### Tipo de estudo
+
+* Qualitativo
+* Exploratório
+* Descritivo
+
+### Coleta de dados
+
+* Setembro a novembro de 2021
+
+### Participantes
+
+* **25 facilitadores de Biodança no SUS**
+
+### Técnica de amostragem
+
+**Snowball sampling (bola de neve)**
+
+### Método de análise
+
+* **Análise de conteúdo temática**
+
+### Instrumento
+
+* Entrevistas semiestruturadas online (Zoom)
+
+---
+
+# 5️⃣ Formas de Implementação da Biodança no SUS
+
+### 1. Profissionais de saúde
+
+* Funcionários efetivos ou contratados
+* Formação em Biodança
+
+### 2. Estagiários
+
+* Parcerias com escolas de Biodança
+
+### 3. Facilitadores voluntários
+
+* Projetos apresentados aos serviços
+
+---
+
+# 6️⃣ Locais de Oferta no SUS
+
+### Atenção Primária (48%)
+
+* Estratégia Saúde da Família (ESF)
+* Academia da Saúde
+
+### Média Complexidade (43%)
+
+* CAPS
+* CERES
+* Unidades especializadas em PICS
+
+### Alta Complexidade (9%)
+
+* Hospitais gerais
+* Hospitais psiquiátricos
+* Hospitais universitários
+
+---
+
+# 7️⃣ Organização das Atividades
+
+* 1 a 5 grupos semanais
+* 20 a 50 participantes por grupo
+
+Tipos de grupos:
+
+* iniciantes
+* intermediários
+* avançados
+
+Problemas identificados:
+
+* alta rotatividade
+* mistura de diferentes condições clínicas
+* ausência de protocolo único
+
+---
+
+# 8️⃣ Resultados e Contribuições
+
+### Para os usuários
+
+* melhoria do bem-estar
+* promoção da saúde
+* redução de medicamentos
+* melhora na saúde mental
+
+### Para os profissionais
+
+* melhora do ambiente de trabalho
+* redução de conflitos
+* fortalecimento das relações
+
+### Para o sistema de saúde
+
+* inovação no cuidado
+* promoção da saúde
+* modelo mais humanizado
+
+---
+
+# 9️⃣ Desafios da Implementação
+
+### Gestão
+
+* pouca participação da gestão
+* falta de políticas institucionais
+
+### Infraestrutura
+
+* falta de espaços adequados
+* uso de locais externos (igrejas, associações)
+
+### Trabalho profissional
+
+* precarização
+* 70% voluntários ou estagiários
+* poucos profissionais contratados
+
+### Registro e monitoramento
+
+* subnotificação no e-SUS
+* poucos registros em prontuário
+
+---
+
+# 🔟 Fatores que Facilitam a Implementação
+
+* apoio da equipe de saúde
+* envolvimento da gestão
+* vivência prática da Biodança
+* confiança entre profissionais
+* atuação dos **Agentes Comunitários de Saúde**
+
+---
+
+# 1️⃣1️⃣ Integração Intersetorial
+
+Integração entre políticas públicas:
+
+* **SUS**
+* **SUAS**
+* **Educação**
+
+Resultados:
+
+* fortalecimento comunitário
+* mediação de conflitos
+* melhora da convivência social
+
+---
+
+# 1️⃣2️⃣ Conclusões do Estudo
+
+### Situação atual
+
+* implementação **incipiente**
+* institucionalização **frágil**
+
+### Protagonistas
+
+* facilitadores de Biodança
+
+### Necessidades futuras
+
+* protocolos de atendimento
+* maior investimento público
+* contratação de profissionais
+* mais pesquisas científicas
+
+---
+
+✅ **Síntese Final:**
+A Biodança no SUS representa uma **inovação no cuidado em saúde**, promovendo integração entre corpo, emoções e relações sociais. Entretanto, sua implementação ainda depende fortemente da iniciativa de profissionais individuais, indicando a necessidade de maior apoio institucional, políticas estruturadas e investimentos para consolidar essa prática no sistema público de saúde.
+
+---
+
+Se quiser, também posso transformar isso em um **mapa mental visual mais simples (estilo para prova ou apresentação)** ou em um **resumo de 1 página para estudar mais rápido.**
